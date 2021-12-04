@@ -2,7 +2,7 @@
 Projeto para o componente curricular de programação funcional em Haskell.  
 Este projeto utiliza a biblioteca [CodeWorld](https://code.world/haskell#) para criar um simples jogo onde controlamos a aceleração e direção de duas naves 🚀 que se movem e atiram, alem disso existem dois asteroides no mapa.  
 ***
-Você pode testar a versão atual clicando [aqui](https://code.world/run.html?mode=haskell&dhash=DZK5aNQO9OfUtKKBEPSgdNQ).  
+Você pode testar a versão atual clicando [aqui](https://code.world/run.html?mode=haskell&dhash=Dz_OwvzUCb3G_qAMOltDkrg).  
 
 Com os seguintes comandos para a nave 1:  
 - ⬅ Para girar a nave para esquerda.
